@@ -1,0 +1,77 @@
+2020-06-15 21:05:07,044 : INFO : utilities.utility : homepageobj created
+2020-06-15 21:05:09,897 : INFO : utilities.utility : checkOutPageObj created
+2020-06-15 21:05:10,074 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="ff6c549fdac3af6a32f7d71fec64c80f", element="0.5305800061377655-1")>, <selenium.webdriver.remote.webelement.WebElement (session="ff6c549fdac3af6a32f7d71fec64c80f", element="0.5305800061377655-2")>, <selenium.webdriver.remote.webelement.WebElement (session="ff6c549fdac3af6a32f7d71fec64c80f", element="0.5305800061377655-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ff6c549fdac3af6a32f7d71fec64c80f", element="0.5305800061377655-4")>]
+2020-06-15 21:05:12,525 : INFO : utilities.utility : Blackberry selected
+2020-06-15 21:05:13,509 : INFO : utilities.utility : checkout clicked
+2020-06-15 21:05:19,628 : INFO : utilities.utility : india selected
+2020-06-15 21:05:19,851 : INFO : utilities.utility : checkbox clicked
+2020-06-15 21:05:20,119 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 21:05:20,119 : INFO : utilities.utility : assert passed
+2020-06-15 21:05:20,998 : INFO : utilities.utility : screen shot created
+2020-06-15 21:07:05,360 : INFO : utilities.utility : homepageobj created
+2020-06-15 21:07:07,787 : INFO : utilities.utility : checkOutPageObj created
+2020-06-15 21:07:07,867 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="ddad6f41b90a325bd82bf542553ec25f", element="0.6672768545142358-1")>, <selenium.webdriver.remote.webelement.WebElement (session="ddad6f41b90a325bd82bf542553ec25f", element="0.6672768545142358-2")>, <selenium.webdriver.remote.webelement.WebElement (session="ddad6f41b90a325bd82bf542553ec25f", element="0.6672768545142358-3")>, <selenium.webdriver.remote.webelement.WebElement (session="ddad6f41b90a325bd82bf542553ec25f", element="0.6672768545142358-4")>]
+2020-06-15 21:07:08,242 : INFO : utilities.utility : Blackberry selected
+2020-06-15 21:07:08,571 : INFO : utilities.utility : checkout clicked
+2020-06-15 21:07:14,349 : INFO : utilities.utility : india selected
+2020-06-15 21:07:14,510 : INFO : utilities.utility : checkbox clicked
+2020-06-15 21:07:14,629 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 21:07:14,629 : INFO : utilities.utility : assert passed
+2020-06-15 21:07:15,125 : INFO : utilities.utility : screen shot created
+2020-06-15 21:24:17,414 : INFO : utilities.utility : homepageobj created
+2020-06-15 21:24:20,184 : INFO : utilities.utility : checkOutPageObj created
+2020-06-15 21:24:20,256 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="22f343f3748cda45155982ae9991d568", element="0.8453632714983184-1")>, <selenium.webdriver.remote.webelement.WebElement (session="22f343f3748cda45155982ae9991d568", element="0.8453632714983184-2")>, <selenium.webdriver.remote.webelement.WebElement (session="22f343f3748cda45155982ae9991d568", element="0.8453632714983184-3")>, <selenium.webdriver.remote.webelement.WebElement (session="22f343f3748cda45155982ae9991d568", element="0.8453632714983184-4")>]
+2020-06-15 21:24:20,632 : INFO : utilities.utility : Blackberry selected
+2020-06-15 21:24:21,079 : INFO : utilities.utility : checkout clicked
+2020-06-15 21:24:28,607 : INFO : utilities.utility : india selected
+2020-06-15 21:24:28,794 : INFO : utilities.utility : checkbox clicked
+2020-06-15 21:24:29,875 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 21:24:29,875 : INFO : utilities.utility : assert passed
+2020-06-15 21:24:31,070 : INFO : utilities.utility : screen shot created
+2020-06-15 21:27:46,335 : INFO : utilities.utility : homepageobj created
+2020-06-15 21:27:48,598 : INFO : utilities.utility : checkOutPageObj created
+2020-06-15 21:27:48,714 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="67d203166777a2efcba5037c63fe4f64", element="0.6810407903960134-1")>, <selenium.webdriver.remote.webelement.WebElement (session="67d203166777a2efcba5037c63fe4f64", element="0.6810407903960134-2")>, <selenium.webdriver.remote.webelement.WebElement (session="67d203166777a2efcba5037c63fe4f64", element="0.6810407903960134-3")>, <selenium.webdriver.remote.webelement.WebElement (session="67d203166777a2efcba5037c63fe4f64", element="0.6810407903960134-4")>]
+2020-06-15 21:27:49,331 : INFO : utilities.utility : Blackberry selected
+2020-06-15 21:27:49,511 : INFO : utilities.utility : checkout clicked
+2020-06-15 21:27:55,716 : INFO : utilities.utility : india selected
+2020-06-15 21:27:55,797 : INFO : utilities.utility : checkbox clicked
+2020-06-15 21:27:56,083 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 21:27:56,084 : INFO : utilities.utility : assert passed
+2020-06-15 21:27:56,587 : INFO : utilities.utility : screen shot created
+2020-06-15 21:30:38,144 : INFO : utilities.utility : homepageobj created
+2020-06-15 21:30:39,924 : INFO : utilities.utility : checkOutPageObj created
+2020-06-15 21:30:39,974 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="6fd81184993517f9fef0355200250969", element="0.29951820219784-1")>, <selenium.webdriver.remote.webelement.WebElement (session="6fd81184993517f9fef0355200250969", element="0.29951820219784-2")>, <selenium.webdriver.remote.webelement.WebElement (session="6fd81184993517f9fef0355200250969", element="0.29951820219784-3")>, <selenium.webdriver.remote.webelement.WebElement (session="6fd81184993517f9fef0355200250969", element="0.29951820219784-4")>]
+2020-06-15 21:30:40,238 : INFO : utilities.utility : Blackberry selected
+2020-06-15 21:30:40,574 : INFO : utilities.utility : checkout clicked
+2020-06-15 21:30:46,439 : INFO : utilities.utility : india selected
+2020-06-15 21:30:46,605 : INFO : utilities.utility : checkbox clicked
+2020-06-15 21:30:46,739 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-15 21:30:46,739 : INFO : utilities.utility : assert passed
+2020-06-15 21:30:47,136 : INFO : utilities.utility : screen shot created
+2020-06-16 21:56:01,781 : INFO : utilities.utility : homepageobj created
+2020-06-16 21:56:04,049 : INFO : utilities.utility : checkOutPageObj created
+2020-06-16 21:56:04,603 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="c294350a46bcbc22c7624b2709ea1c4a", element="0.07578357924534562-1")>, <selenium.webdriver.remote.webelement.WebElement (session="c294350a46bcbc22c7624b2709ea1c4a", element="0.07578357924534562-2")>, <selenium.webdriver.remote.webelement.WebElement (session="c294350a46bcbc22c7624b2709ea1c4a", element="0.07578357924534562-3")>, <selenium.webdriver.remote.webelement.WebElement (session="c294350a46bcbc22c7624b2709ea1c4a", element="0.07578357924534562-4")>]
+2020-06-16 21:56:05,597 : INFO : utilities.utility : Blackberry selected
+2020-06-16 21:56:06,038 : INFO : utilities.utility : checkout clicked
+2020-06-16 21:56:13,480 : INFO : utilities.utility : india selected
+2020-06-16 21:56:14,499 : INFO : utilities.utility : checkbox clicked
+2020-06-16 21:56:14,953 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-16 21:56:14,953 : INFO : utilities.utility : assert passed
+2020-06-16 21:56:15,539 : INFO : utilities.utility : screen shot created
+2020-06-16 22:18:59,584 : INFO : utilities.utility : homepageobj created
+2020-06-16 22:19:01,597 : INFO : utilities.utility : checkOutPageObj created
+2020-06-16 22:19:01,961 : INFO : utilities.utility : [<selenium.webdriver.remote.webelement.WebElement (session="200afc82b9946b753a61200d4bd995e2", element="0.5993387411082047-1")>, <selenium.webdriver.remote.webelement.WebElement (session="200afc82b9946b753a61200d4bd995e2", element="0.5993387411082047-2")>, <selenium.webdriver.remote.webelement.WebElement (session="200afc82b9946b753a61200d4bd995e2", element="0.5993387411082047-3")>, <selenium.webdriver.remote.webelement.WebElement (session="200afc82b9946b753a61200d4bd995e2", element="0.5993387411082047-4")>]
+2020-06-16 22:19:02,340 : INFO : utilities.utility : Blackberry selected
+2020-06-16 22:19:02,891 : INFO : utilities.utility : checkout clicked
+2020-06-16 22:19:09,165 : INFO : utilities.utility : india selected
+2020-06-16 22:19:09,425 : INFO : utilities.utility : checkbox clicked
+2020-06-16 22:19:10,344 : INFO : utilities.utility : ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-06-16 22:19:10,344 : INFO : utilities.utility : assert passed
+2020-06-16 22:19:10,810 : INFO : utilities.utility : screen shot created
